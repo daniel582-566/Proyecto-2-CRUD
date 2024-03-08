@@ -1,0 +1,13 @@
+para hacer los commit 
+git add nombre_del_archivo1 nombre_del_archivo2
+# o para agregar todos los archivos
+git add 
+
+git commit -m "Mensaje descriptivo del commit"
+
+
+git push origin nombre_de_la_rama
+
+
+git push origin main
+.
